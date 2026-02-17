@@ -20,15 +20,15 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "快速開始"
     url: /docs/quick-start-guide/
-  - title: "About"
+  - title: "關於我"
     url: /about/
-  - title: "Sample Posts"
+  - title: "文章彙整"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "收藏主題"
     url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
+  - title: "網站條款"
     url: /terms/
 
 
